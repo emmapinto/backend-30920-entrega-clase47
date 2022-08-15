@@ -16,7 +16,7 @@ Desafío entregable 47: Servidor en DENO
 
 ```bash
 # Clonar el repositorio
-$ git clone https://github.com/emmapinto/desafio-47-servidor_con_deno
+$ git clone https://github.com/emmapinto/backend-30920-entrega-clase47
 
 # Instalar denon (en caso de no tenerlo)
 $ deno install -qAf --unstable https://deno.land/x/denon/denon.ts
