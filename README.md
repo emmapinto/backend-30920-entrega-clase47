@@ -2,7 +2,7 @@
 Desafío entregable 47: Servidor en DENO
 
 
->> Consigna: 
+## Consigna: 
 - Crear un servidor que utilice el módulo http servest y genere la vista con React render.
 - Configurar denon para que, ante un cambio de código, el servidor de reinicie automáticamente.
     - El servidor presentará en su ruta raíz un formulario de ingreso de un color, que será enviado al mismo por método post. Dicho color (en inglés) será incorporado a un array de colores persistido en memoria.
@@ -10,7 +10,7 @@ Desafío entregable 47: Servidor en DENO
 NOTA: El servidor deberá tener extensión tsx para el correcto funcionamiento de la sintaxis de vista de React en Typescript.
 
 
-## Para probar el código:
+## Seguir estos pasos para bajar el repo:
 
 - Instalar deno (en caso de no tenerlo) [Instalación](https://deno.land/#installation)
 
